@@ -3,7 +3,6 @@
     "alias": "akash-network",
     "api": [
       "https://akash-api.global.ssl.fastly.net:443",
-      "https://rpc.akashtest.net:443",
       "https://api.akashnet.net:443",
       "https://akash-api.polkachu.com:443",
       "https://akash.c29r3.xyz:443/api"
@@ -15,7 +14,6 @@
       "https://rpc-akash.ecostake.com:443",
       "https://akash-rpc.polkachu.com:443",
       "http://akash.c29r3.xyz:80/rpc",
-      "https://rpc.akashtest.net:443"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
