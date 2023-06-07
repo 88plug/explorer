@@ -1,8 +1,22 @@
 {
     "chain_name": "akash",
     "alias": "akash-network",
-    "api": ["https://api-akash-ia.cosmosia.notional.ventures/", "https://akash-api.polkachu.com", "https://akash.c29r3.xyz:443/api"],
-    "rpc": ["https://rpc-akash-ia.cosmosia.notional.ventures/", "https://akash-rpc.polkachu.com/", "http://rpc.akash.forbole.com:80", "http://akashsentry01.skynetvalidators.com:26657"],
+    "api": [
+      "https://akash-api.global.ssl.fastly.net:443",
+      "https://rpc.akashtest.net:443",
+      "https://api.akashnet.net:443",
+      "https://akash-api.polkachu.com:443",
+      "https://akash.c29r3.xyz:443/api"
+    ],
+    "rpc": [
+      "https://akash-rpc.global.ssl.fastly.net:443",
+      "https://rpc.akashnet.net:443",
+      "https://rpc.akash.forbole.com:443",
+      "https://rpc-akash.ecostake.com:443",
+      "https://akash-rpc.polkachu.com:443",
+      "http://akash.c29r3.xyz:80/rpc",
+      "https://rpc.akashtest.net:443"
+    ],
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
     "coin_type": "118",
